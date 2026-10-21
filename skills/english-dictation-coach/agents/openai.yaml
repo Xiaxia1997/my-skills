@@ -1,0 +1,7 @@
+interface:
+  display_name: "English Dictation Coach"
+  short_description: "把英语听写批改成带逐句回听、段落翻译和词卡的本地复习页"
+  default_prompt: "Use $english-dictation-coach to compare my dictation with this English clip and generate an interactive HTML review."
+
+policy:
+  allow_implicit_invocation: true
